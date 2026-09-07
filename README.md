@@ -1,6 +1,6 @@
 # Agente Autónomo para Limpieza de Ángulos (ViZDoom)
 **Autora:** Gabriela Ignacia González Cohen<br>
-**ROL:** 202004040-0
+**ROL:** 202004040-0<br>
 **Ramo:** TEL351 - Seminario de Telemática I
 
 Este repositorio contiene el código fuente, configuraciones y documentación del proyecto semestral para la asignatura **Agentes Inteligentes**. 
