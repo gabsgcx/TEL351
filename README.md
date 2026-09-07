@@ -1,4 +1,7 @@
 # Agente Autónomo para Limpieza de Ángulos (ViZDoom)
+**Autora:** Gabriela Ignacia González Cohen<br>
+**ROL:** 202004040-0
+**Ramo:** TEL351 - Seminario de Telemática I
 
 Este repositorio contiene el código fuente, configuraciones y documentación del proyecto semestral para la asignatura **Agentes Inteligentes**. 
 
@@ -6,7 +9,16 @@ El objetivo general del proyecto es desarrollar un agente autónomo capaz de nav
 
 ---
 
-## 🛠️ Requisitos e Instalación
+## Índice
+- [Requisitos e Instalación](#️-requisitos-e-instalación)
+- [Progreso del Proyecto](#progreso-del-proyecto)
+  - [Taller 1: Definición del Problema](#taller-1-definición-del-problema)
+  - [Taller 2: Selección de Plataforma y Setup](#taller-2-selección-de-plataforma-y-setup)
+    - [Evidencia Técnica (Taller 2)](#evidencia-técnica-taller-2)
+
+---
+
+## Requisitos e Instalación
 
 El entorno principal del proyecto está basado en **ViZDoom**. Para ejecutar los scripts en un entorno local, se requiere **Python 3.8+** y las dependencias detalladas en el archivo `requirements.txt`.
 
@@ -31,7 +43,3 @@ Como respaldo de la viabilidad técnica de ViZDoom, se adjuntan las capturas de 
 
 * **Renderizado del Entorno:** <video src="https://github.com/user-attachments/assets/caa2da9e-f1b1-47a8-b457-7a83b9e75f6e" controls width="100%"></video>
 * **Logs de Consola y Estado:** [Ver capturas de la consola]() *(Demuestra la extracción exitosa de POSITION_X/Y/Z, ANGLE, HEALTH y AMMO2 utilizando el método game.get_state())*.
-
----
-**Autora:** Gabriela González
-**Universidad Técnica Federico Santa María**
