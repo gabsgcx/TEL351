@@ -29,9 +29,9 @@ Evaluación de frameworks (Counter-Strike 1.6, DeepMind Lab, ViZDoom). Se selecc
 #### Evidencia Técnica (Taller 2)
 Como respaldo de la viabilidad técnica de ViZDoom, se adjuntan las capturas de la correcta ejecución de los scripts de prueba:
 
-* **Renderizado del Entorno:** [Ver captura del juego en ejecución]()
+* **Renderizado del Entorno:** [Video del juego en ejecución](https://github.com/user-attachments/assets/9f241017-9d74-41cd-a026-7157a94e4c3f)
 * **Logs de Consola y Estado:** [Ver capturas de la consola]() *(Demuestra la extracción exitosa de POSITION_X/Y/Z, ANGLE, HEALTH y AMMO2 utilizando el método game.get_state())*.
 
 ---
-**Autora:** Gabriela González  
+**Autora:** Gabriela González
 **Universidad Técnica Federico Santa María**
