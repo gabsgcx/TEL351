@@ -42,7 +42,7 @@ Evaluación de frameworks (Counter-Strike 1.6, DeepMind Lab, ViZDoom). Se selecc
 Como respaldo de la viabilidad técnica de ViZDoom, se adjuntan las capturas de la correcta ejecución de los scripts de prueba:
 
 * **Renderizado del Entorno:**
-  ![Renderizado del entorno en ViZDoom](media/demo.gif)
+  ![Renderizado del entorno en ViZDoom](media/test.gif)
 * **Logs de Consola y Estado (Extracción de variables):** 
   * [Ejecución test_all_controls - Parte 1](evidencia/log_test1.png)
   * [Ejecución test_all_controls - Parte 2](evidencia/log_test2.png)
