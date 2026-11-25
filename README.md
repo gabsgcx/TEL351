@@ -41,7 +41,7 @@ Evaluación de frameworks (Counter-Strike 1.6, DeepMind Lab, ViZDoom). Se selecc
 #### Evidencia Técnica (Taller 2)
 Como respaldo de la viabilidad técnica de ViZDoom, se adjuntan las capturas de la correcta ejecución de los scripts de prueba:
 
-* **Renderizado del Entorno:** [ <video src="https://github.com/user-attachments/assets/caa2da9e-f1b1-47a8-b457-7a83b9e75f6e" controls width="100%"></video>](https://github.com/user-attachments/assets/698a9e1e-e67f-4ab9-b72b-77e2d44f8907)
+* **Renderizado del Entorno:** (media/test.gif)
 * **Logs de Consola y Estado (Extracción de variables):** 
   * [Ejecución test_all_controls - Parte 1](evidencia/log_test1.png)
   * [Ejecución test_all_controls - Parte 2](evidencia/log_test2.png)
