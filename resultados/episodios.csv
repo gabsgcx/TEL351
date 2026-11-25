@@ -1,0 +1,201 @@
+condition,stratum,description,seed,episode,policy,sigma,theta,ticks,budget,success,outcome,decisions,shots,y0,abs_y0,offset,health_end,ammo_end,seconds
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,0,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.446
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,2,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.14
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,3,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.03
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,4,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,6,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,9,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,10,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,11,nominal,0.0,4.0,2,6,1,exito,5,5,52.376,52.376,20.375999999999998,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,12,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,13,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,15,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,17,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,18,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,20,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,22,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,24,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,25,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,26,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,28,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,30,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,31,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,35,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,36,nominal,0.0,4.0,2,6,1,exito,5,5,36.243,36.243,4.243000000000002,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,37,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,41,nominal,0.0,4.0,2,6,1,exito,5,5,35.386,35.386,3.386000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,45,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,46,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,48,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,49,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,50,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,52,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.004
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,54,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,57,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.018
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,58,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.003
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,59,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,60,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,61,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,62,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.002
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,63,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.004
+B0_en_cono,D0,"Agente base, amenaza dentro del cono",2026,64,nominal,0.0,4.0,2,6,1,exito,5,5,60.505,60.505,28.505000000000003,100.0,50.0,0.004
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,1,nominal,0.0,4.0,2,6,0,sin_municion,6,6,171.273,171.273,139.273,100.0,49.0,0.077
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,7,nominal,0.0,4.0,2,6,0,sin_municion,6,6,164.953,164.953,132.953,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,8,nominal,0.0,4.0,2,6,0,sin_municion,6,6,201.918,201.918,169.918,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,16,nominal,0.0,4.0,2,6,0,sin_municion,6,6,99.903,99.903,67.903,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,21,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-143.388,143.388,175.388,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,27,nominal,0.0,4.0,2,6,0,sin_municion,6,6,207.334,207.334,175.334,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,29,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-83.28,83.28,115.28,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,32,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-120.593,120.593,152.59300000000002,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,33,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-102.94,102.94,134.94,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,34,nominal,0.0,4.0,2,6,0,sin_municion,6,6,218.139,218.139,186.139,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,38,nominal,0.0,4.0,2,6,0,sin_municion,6,6,123.846,123.846,91.846,100.0,49.0,0.004
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,39,nominal,0.0,4.0,2,6,0,sin_municion,6,6,116.181,116.181,84.181,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,40,nominal,0.0,4.0,2,6,0,sin_municion,6,6,164.436,164.436,132.436,100.0,49.0,0.004
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,42,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-100.932,100.932,132.93200000000002,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,43,nominal,0.0,4.0,2,6,0,sin_municion,6,6,120.056,120.056,88.056,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,44,nominal,0.0,4.0,2,6,0,sin_municion,6,6,164.945,164.945,132.945,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,51,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-94.992,94.992,126.992,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,53,nominal,0.0,4.0,2,6,0,sin_municion,6,6,125.27,125.27,93.27,100.0,49.0,0.004
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,55,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-63.751,63.751,95.751,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,65,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-153.573,153.573,185.573,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,66,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-29.086,29.086,61.086,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,73,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-78.289,78.289,110.289,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,75,nominal,0.0,4.0,2,6,0,sin_municion,6,6,154.203,154.203,122.203,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,77,nominal,0.0,4.0,2,6,0,sin_municion,6,6,173.511,173.511,141.511,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,78,nominal,0.0,4.0,2,6,0,sin_municion,6,6,212.281,212.281,180.281,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,80,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-149.785,149.785,181.785,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,81,nominal,0.0,4.0,2,6,0,sin_municion,6,6,121.767,121.767,89.767,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,83,nominal,0.0,4.0,2,6,0,sin_municion,6,6,150.436,150.436,118.436,100.0,49.0,0.004
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,84,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-127.387,127.387,159.387,100.0,49.0,0.004
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,87,nominal,0.0,4.0,2,6,0,sin_municion,6,6,109.11,109.11,77.11,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,88,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-84.185,84.185,116.185,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,89,nominal,0.0,4.0,2,6,0,sin_municion,6,6,186.483,186.483,154.483,100.0,49.0,0.003
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,90,nominal,0.0,4.0,2,6,0,sin_municion,6,6,107.157,107.157,75.157,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,92,nominal,0.0,4.0,2,6,0,sin_municion,6,6,134.294,134.294,102.29400000000001,100.0,49.0,0.002
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,97,nominal,0.0,4.0,2,6,0,sin_municion,6,6,175.049,175.049,143.049,100.0,49.0,0.059
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,98,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-112.495,112.495,144.495,100.0,49.0,0.006
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,99,nominal,0.0,4.0,2,6,0,sin_municion,6,6,-155.567,155.567,187.567,100.0,49.0,0.004
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,100,nominal,0.0,4.0,2,6,0,sin_municion,6,6,96.693,96.693,64.693,100.0,49.0,0.007
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,103,nominal,0.0,4.0,2,6,0,sin_municion,6,6,164.018,164.018,132.018,100.0,49.0,0.134
+B1_fuera_cono,D1,"Agente base, amenaza fuera del cono",2026,104,nominal,0.0,4.0,2,6,0,sin_municion,6,6,158.9,158.9,126.9,100.0,49.0,0.249
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,1,nominal,10.0,4.0,2,6,0,sin_municion,32,6,171.273,171.273,139.273,100.0,47.0,0.201
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,7,nominal,10.0,4.0,2,6,0,sin_municion,21,6,164.953,164.953,132.953,100.0,48.0,0.011
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,8,nominal,10.0,4.0,2,6,0,sin_municion,22,6,201.918,201.918,169.918,100.0,48.0,0.012
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,16,nominal,10.0,4.0,2,6,0,sin_municion,13,6,99.903,99.903,67.903,100.0,48.0,0.006
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,21,nominal,10.0,4.0,2,6,0,sin_municion,18,6,-143.388,143.388,175.388,100.0,49.0,0.011
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,27,nominal,10.0,4.0,2,6,0,sin_municion,30,6,207.334,207.334,175.334,100.0,48.0,0.406
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,29,nominal,10.0,4.0,2,6,0,sin_municion,17,6,-83.28,83.28,115.28,100.0,49.0,0.763
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,32,nominal,10.0,4.0,2,6,0,sin_municion,23,6,-120.593,120.593,152.59300000000002,100.0,48.0,1.086
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,33,nominal,10.0,4.0,2,6,0,sin_municion,29,6,-102.94,102.94,134.94,100.0,48.0,1.474
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,34,nominal,10.0,4.0,2,6,0,sin_municion,38,6,218.139,218.139,186.139,100.0,47.0,1.89
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,38,nominal,10.0,4.0,2,6,0,sin_municion,22,6,123.846,123.846,91.846,100.0,48.0,1.176
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,39,nominal,10.0,4.0,2,6,0,sin_municion,30,6,116.181,116.181,84.181,100.0,47.0,1.472
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,40,nominal,10.0,4.0,2,6,0,sin_municion,26,6,164.436,164.436,132.436,100.0,47.0,0.919
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,42,nominal,10.0,4.0,2,6,0,sin_municion,22,6,-100.932,100.932,132.93200000000002,100.0,48.0,0.882
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,43,nominal,10.0,4.0,2,6,0,sin_municion,22,6,120.056,120.056,88.056,100.0,48.0,1.084
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,44,nominal,10.0,4.0,2,6,0,sin_municion,17,6,164.945,164.945,132.945,100.0,49.0,0.929
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,51,nominal,10.0,4.0,2,6,0,sin_municion,25,6,-94.992,94.992,126.992,100.0,48.0,1.089
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,53,nominal,10.0,4.0,2,6,0,sin_municion,8,6,125.27,125.27,93.27,100.0,49.0,0.452
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,55,nominal,10.0,4.0,2,6,0,sin_municion,12,6,-63.751,63.751,95.751,100.0,49.0,0.591
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,65,nominal,10.0,4.0,2,6,0,sin_municion,28,6,-153.573,153.573,185.573,100.0,47.0,0.527
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,66,nominal,10.0,4.0,2,6,0,sin_municion,18,6,-29.086,29.086,61.086,100.0,49.0,0.834
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,73,nominal,10.0,4.0,2,6,0,sin_municion,16,6,-78.289,78.289,110.289,100.0,48.0,0.67
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,75,nominal,10.0,4.0,2,6,0,sin_municion,17,6,154.203,154.203,122.203,100.0,48.0,0.849
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,77,nominal,10.0,4.0,2,6,0,sin_municion,18,6,173.511,173.511,141.511,100.0,48.0,0.911
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,78,nominal,10.0,4.0,2,6,0,sin_municion,26,6,212.281,212.281,180.281,100.0,48.0,1.316
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,80,nominal,10.0,4.0,2,6,0,sin_municion,21,6,-149.785,149.785,181.785,100.0,49.0,0.524
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,81,nominal,10.0,4.0,2,6,1,exito,13,3,121.767,121.767,89.767,100.0,49.0,0.231
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,83,nominal,10.0,4.0,2,6,0,sin_municion,8,6,150.436,150.436,118.436,100.0,49.0,0.463
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,84,nominal,10.0,4.0,2,6,0,sin_municion,34,6,-127.387,127.387,159.387,100.0,48.0,0.777
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,87,nominal,10.0,4.0,2,6,0,sin_municion,34,6,109.11,109.11,77.11,100.0,47.0,1.791
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,88,nominal,10.0,4.0,2,6,0,sin_municion,36,6,-84.185,84.185,116.185,100.0,48.0,1.607
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,89,nominal,10.0,4.0,2,6,0,sin_municion,29,6,186.483,186.483,154.483,100.0,47.0,1.213
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,90,nominal,10.0,4.0,2,6,1,exito,22,6,107.157,107.157,75.157,100.0,49.0,0.97
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,92,nominal,10.0,4.0,2,6,0,sin_municion,19,6,134.294,134.294,102.29400000000001,100.0,49.0,0.388
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,97,nominal,10.0,4.0,2,6,0,sin_municion,14,6,175.049,175.049,143.049,100.0,48.0,0.696
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,98,nominal,10.0,4.0,2,6,0,sin_municion,24,6,-112.495,112.495,144.495,100.0,48.0,1.056
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,99,nominal,10.0,4.0,2,6,0,sin_municion,22,6,-155.567,155.567,187.567,100.0,48.0,1.147
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,100,nominal,10.0,4.0,2,6,0,sin_municion,21,6,96.693,96.693,64.693,100.0,48.0,0.665
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,103,nominal,10.0,4.0,2,6,0,sin_municion,23,6,164.018,164.018,132.018,100.0,48.0,1.158
+B2_fuera_ruido,D1,"Agente base, fuera del cono + ruido",2026,104,nominal,10.0,4.0,2,6,0,sin_municion,25,6,158.9,158.9,126.9,100.0,48.0,1.051
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,1,bearing,0.0,4.0,2,6,1,exito,7,3,171.273,171.273,139.273,100.0,50.0,0.215
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,7,bearing,0.0,4.0,2,6,1,exito,7,3,164.953,164.953,132.953,100.0,50.0,0.003
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,8,bearing,0.0,4.0,2,6,1,exito,8,3,201.918,201.918,169.918,100.0,50.0,0.004
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,16,bearing,0.0,4.0,2,6,1,exito,5,3,99.903,99.903,67.903,100.0,50.0,0.035
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,21,bearing,0.0,4.0,2,6,1,exito,8,3,-143.388,143.388,175.388,100.0,50.0,0.037
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,27,bearing,0.0,4.0,2,6,1,exito,8,3,207.334,207.334,175.334,100.0,50.0,0.375
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,29,bearing,0.0,4.0,2,6,1,exito,7,3,-83.28,83.28,115.28,100.0,50.0,0.217
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,32,bearing,0.0,4.0,2,6,1,exito,7,3,-120.593,120.593,152.59300000000002,100.0,50.0,0.389
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,33,bearing,0.0,4.0,2,6,1,exito,7,3,-102.94,102.94,134.94,100.0,50.0,0.34
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,34,bearing,0.0,4.0,2,6,1,exito,8,3,218.139,218.139,186.139,100.0,50.0,0.449
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,38,bearing,0.0,4.0,2,6,1,exito,6,3,123.846,123.846,91.846,100.0,50.0,0.262
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,39,bearing,0.0,4.0,2,6,1,exito,6,3,116.181,116.181,84.181,100.0,50.0,0.281
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,40,bearing,0.0,4.0,2,6,1,exito,7,3,164.436,164.436,132.436,100.0,50.0,0.399
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,42,bearing,0.0,4.0,2,6,1,exito,7,3,-100.932,100.932,132.93200000000002,100.0,50.0,0.372
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,43,bearing,0.0,4.0,2,6,1,exito,6,3,120.056,120.056,88.056,100.0,50.0,0.155
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,44,bearing,0.0,4.0,2,6,1,exito,7,3,164.945,164.945,132.945,100.0,50.0,0.342
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,51,bearing,0.0,4.0,2,6,1,exito,7,3,-94.992,94.992,126.992,100.0,50.0,0.375
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,53,bearing,0.0,4.0,2,6,1,exito,6,3,125.27,125.27,93.27,100.0,50.0,0.248
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,55,bearing,0.0,4.0,2,6,1,exito,6,3,-63.751,63.751,95.751,100.0,50.0,0.201
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,65,bearing,0.0,4.0,2,6,1,exito,8,3,-153.573,153.573,185.573,100.0,50.0,0.423
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,66,bearing,0.0,4.0,2,6,1,exito,5,3,-29.086,29.086,61.086,100.0,50.0,0.309
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,73,bearing,0.0,4.0,2,6,1,exito,6,3,-78.289,78.289,110.289,100.0,50.0,0.324
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,75,bearing,0.0,4.0,2,6,1,exito,7,3,154.203,154.203,122.203,100.0,50.0,0.207
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,77,bearing,0.0,4.0,2,6,1,exito,7,3,173.511,173.511,141.511,100.0,50.0,0.385
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,78,bearing,0.0,4.0,2,6,1,exito,8,3,212.281,212.281,180.281,100.0,50.0,0.247
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,80,bearing,0.0,4.0,2,6,1,exito,8,3,-149.785,149.785,181.785,100.0,50.0,0.416
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,81,bearing,0.0,4.0,2,6,1,exito,6,3,121.767,121.767,89.767,100.0,50.0,0.26
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,83,bearing,0.0,4.0,2,6,1,exito,7,3,150.436,150.436,118.436,100.0,50.0,0.014
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,84,bearing,0.0,4.0,2,6,1,exito,7,3,-127.387,127.387,159.387,100.0,50.0,0.047
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,87,bearing,0.0,4.0,2,6,1,exito,6,3,109.11,109.11,77.11,100.0,50.0,0.342
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,88,bearing,0.0,4.0,2,6,1,exito,7,3,-84.185,84.185,116.185,100.0,50.0,0.008
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,89,bearing,0.0,4.0,2,6,1,exito,7,3,186.483,186.483,154.483,100.0,50.0,0.014
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,90,bearing,0.0,4.0,2,6,1,exito,6,3,107.157,107.157,75.157,100.0,50.0,0.265
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,92,bearing,0.0,4.0,2,6,1,exito,6,3,134.294,134.294,102.29400000000001,100.0,50.0,0.003
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,97,bearing,0.0,4.0,2,6,1,exito,7,3,175.049,175.049,143.049,100.0,50.0,0.013
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,98,bearing,0.0,4.0,2,6,1,exito,7,3,-112.495,112.495,144.495,100.0,50.0,0.014
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,99,bearing,0.0,4.0,2,6,1,exito,8,3,-155.567,155.567,187.567,100.0,50.0,0.014
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,100,bearing,0.0,4.0,2,6,1,exito,5,3,96.693,96.693,64.693,100.0,50.0,0.014
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,103,bearing,0.0,4.0,2,6,1,exito,7,3,164.018,164.018,132.018,100.0,50.0,0.344
+REF_fuera,D1,"Referencia servo visual, fuera del cono",2026,104,bearing,0.0,4.0,2,6,1,exito,7,3,158.9,158.9,126.9,100.0,50.0,0.015
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,1,bearing,10.0,4.0,2,6,0,sin_municion,34,6,171.273,171.273,139.273,100.0,48.0,0.8
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,7,bearing,10.0,4.0,2,6,1,exito,17,4,164.953,164.953,132.953,100.0,50.0,0.877
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,8,bearing,10.0,4.0,2,6,1,exito,9,2,201.918,201.918,169.918,100.0,50.0,0.5
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,16,bearing,10.0,4.0,2,6,1,exito,9,2,99.903,99.903,67.903,100.0,50.0,0.023
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,21,bearing,10.0,4.0,2,6,1,exito,20,5,-143.388,143.388,175.388,100.0,49.0,0.013
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,27,bearing,10.0,4.0,2,6,1,exito,17,5,207.334,207.334,175.334,100.0,49.0,0.405
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,29,bearing,10.0,4.0,2,6,1,exito,6,1,-83.28,83.28,115.28,100.0,50.0,0.063
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,32,bearing,10.0,4.0,2,6,1,exito,7,2,-120.593,120.593,152.59300000000002,100.0,50.0,0.328
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,33,bearing,10.0,4.0,2,6,1,exito,6,1,-102.94,102.94,134.94,100.0,50.0,0.252
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,34,bearing,10.0,4.0,2,6,1,exito,10,1,218.139,218.139,186.139,100.0,50.0,0.405
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,38,bearing,10.0,4.0,2,6,1,exito,22,4,123.846,123.846,91.846,100.0,49.0,0.993
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,39,bearing,10.0,4.0,2,6,1,exito,17,4,116.181,116.181,84.181,100.0,49.0,0.553
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,40,bearing,10.0,4.0,2,6,1,exito,15,3,164.436,164.436,132.436,100.0,49.0,0.011
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,42,bearing,10.0,4.0,2,6,1,exito,8,1,-100.932,100.932,132.93200000000002,100.0,50.0,0.125
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,43,bearing,10.0,4.0,2,6,1,exito,6,2,120.056,120.056,88.056,100.0,50.0,0.126
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,44,bearing,10.0,4.0,2,6,1,exito,6,1,164.945,164.945,132.945,100.0,50.0,0.22
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,51,bearing,10.0,4.0,2,6,1,exito,15,6,-94.992,94.992,126.992,100.0,49.0,0.737
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,53,bearing,10.0,4.0,2,6,1,exito,7,3,125.27,125.27,93.27,100.0,50.0,0.285
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,55,bearing,10.0,4.0,2,6,1,exito,6,3,-63.751,63.751,95.751,100.0,50.0,0.095
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,65,bearing,10.0,4.0,2,6,1,exito,7,1,-153.573,153.573,185.573,100.0,50.0,0.347
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,66,bearing,10.0,4.0,2,6,1,exito,6,2,-29.086,29.086,61.086,100.0,50.0,0.251
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,73,bearing,10.0,4.0,2,6,1,exito,14,6,-78.289,78.289,110.289,100.0,49.0,0.596
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,75,bearing,10.0,4.0,2,6,1,exito,8,1,154.203,154.203,122.203,100.0,50.0,0.345
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,77,bearing,10.0,4.0,2,6,1,exito,10,2,173.511,173.511,141.511,100.0,50.0,0.251
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,78,bearing,10.0,4.0,2,6,1,exito,16,5,212.281,212.281,180.281,100.0,49.0,0.737
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,80,bearing,10.0,4.0,2,6,1,exito,11,1,-149.785,149.785,181.785,100.0,50.0,0.376
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,81,bearing,10.0,4.0,2,6,1,exito,13,2,121.767,121.767,89.767,100.0,50.0,0.483
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,83,bearing,10.0,4.0,2,6,1,exito,5,1,150.436,150.436,118.436,100.0,50.0,0.314
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,84,bearing,10.0,4.0,2,6,1,exito,7,2,-127.387,127.387,159.387,100.0,50.0,0.252
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,87,bearing,10.0,4.0,2,6,1,exito,18,5,109.11,109.11,77.11,100.0,48.0,0.639
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,88,bearing,10.0,4.0,2,6,1,exito,7,1,-84.185,84.185,116.185,100.0,50.0,0.236
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,89,bearing,10.0,4.0,2,6,1,exito,11,2,186.483,186.483,154.483,100.0,50.0,0.489
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,90,bearing,10.0,4.0,2,6,0,sin_municion,21,6,107.157,107.157,75.157,100.0,48.0,0.644
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,92,bearing,10.0,4.0,2,6,1,exito,18,6,134.294,134.294,102.29400000000001,100.0,49.0,0.969
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,97,bearing,10.0,4.0,2,6,1,exito,13,3,175.049,175.049,143.049,100.0,49.0,0.452
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,98,bearing,10.0,4.0,2,6,1,exito,10,3,-112.495,112.495,144.495,100.0,50.0,0.25
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,99,bearing,10.0,4.0,2,6,1,exito,14,4,-155.567,155.567,187.567,100.0,49.0,0.297
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,100,bearing,10.0,4.0,2,6,1,exito,6,2,96.693,96.693,64.693,100.0,50.0,0.22
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,103,bearing,10.0,4.0,2,6,1,exito,12,2,164.018,164.018,132.018,100.0,49.0,0.531
+REF_fuera_ruido,D1,"Referencia servo visual, fuera + ruido",2026,104,bearing,10.0,4.0,2,6,0,sin_municion,41,6,158.9,158.9,126.9,100.0,47.0,1.581
