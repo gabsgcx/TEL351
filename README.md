@@ -15,6 +15,7 @@ El objetivo general del proyecto es desarrollar un agente autónomo capaz de nav
   - [Taller 1: Definición del Problema](#taller-1-definición-del-problema)
   - [Taller 2: Selección de Plataforma y Setup](#taller-2-selección-de-plataforma-y-setup)
     - [Evidencia Técnica (Taller 2)](#evidencia-técnica-taller-2)
+  - [Taller 5: Agente Base y Diseño de Aprendizaje](#taller-5-agente-base-y-diseño-de-aprendizaje)
 
 ---
 
@@ -49,3 +50,18 @@ Como respaldo de la viabilidad técnica de ViZDoom, se adjuntan las capturas de 
   * [Ejecución test_all_controls - Parte 3](evidencia/log_test3.png)
  
   *(Estas capturas demuestran la extracción exitosa de POSITION_X/Y/Z, ANGLE, HEALTH y AMMO2 utilizando el método game.get_state() a lo largo de las distintas pruebas del script).*
+
+### Taller 5: Agente Base y Diseño de Aprendizaje
+
+Implementación del agente base sin aprendizaje sobre `scenarios/limpieza_angulos.cfg` y diseño del componente de aprendizaje por refuerzo (Q-learning tabular), junto con la evaluación experimental del agente base.
+
+* [`baseline_agent.py`](baseline_agent.py): agente base (4 reglas) y CLI de ejecución.
+* [`run_experiments.py`](run_experiments.py): runner que genera la tabla de resultados y la figura.
+* [`resultados/`](resultados): resumen, episodios por episodio y figura.
+* [`README_baseline.md`](README_baseline.md): documentación técnica y reproducción mínima.
+
+Reproducción:
+```bash
+pip install -r requirements.txt
+python run_experiments.py
+```
